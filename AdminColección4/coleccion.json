@@ -1,0 +1,86 @@
+{
+    "Libros": [
+        {
+            "Nombre": "Cien años de soledad",
+            "Creador": "Gabriel García Márquez",
+            "Género": "Realismo",
+            "Valoración": 9.8
+        },
+        {
+            "Nombre": "El Principito",
+            "Creador": "Antoine de Saint-Exupéry",
+            "Género": "Fantasía",
+            "Valoración": 9.7
+        },
+        {
+            "Nombre": "Don Quijote de la Mancha",
+            "Creador": "Miguel de Cervantes",
+            "Género": "novela",
+            "Valoración": 9.0
+        },
+        {
+            "Nombre": "Harry Potter",
+            "Creador": "J. K. Rowling",
+            "Género": "Fantasía",
+            "Valoración": 9.3
+        },
+        {
+            "Nombre": "lukitas",
+            "Creador": "lukas",
+            "Género": "comedia",
+            "Valoración": 0.1
+        }
+    ],
+    "Películas": [
+        {
+            "Nombre": "Inception",
+            "Creador": "Christopher Nolan",
+            "Género": "Ciencia Ficción",
+            "Valoración": 9.9
+        },
+        {
+            "Nombre": "La Pasión de Cristo",
+            "Creador": "Mel Gibson",
+            "Género": "Religión",
+            "Valoración": 9.8
+        },
+        {
+            "Nombre": "La Caída del Halcón Negro",
+            "Creador": "Ridley Scott",
+            "Género": "Guerra",
+            "Valoración": 8.9
+        },
+        {
+            "Nombre": "Transformers",
+            "Creador": "Michael Bay",
+            "Género": "Ciencia Ficción",
+            "Valoración": 8.9
+        }
+    ],
+    "Canciones": [
+        {
+            "Nombre": "Bohemian Rhapsody",
+            "Creador": "Queen",
+            "Género": "Rock",
+            "Valoración": 9.7
+        },
+        {
+            "Nombre": "Chlorine",
+            "Creador": "Twenty One Pilots",
+            "Género": "Rock Pop",
+            "Valoración": 9.5
+        },
+        {
+            "Nombre": "Anywhere in the Galaxy",
+            "Creador": "Gamma Ray",
+            "Género": "Rock",
+            "Valoración": 8.9
+        },
+        {
+            "Nombre": "Storytime",
+            "Creador": "Nightwish",
+            "Género": "Metal Sinfónico",
+            "Valoración": 9.6
+        }
+    ]
+}
