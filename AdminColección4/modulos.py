@@ -15,7 +15,8 @@ def mostrar_menu():
 5. Eliminar un Elemento
 6. Ver Elementos por Género
 7. Guardar y Cargar Colecciòn
-8. Salir
+8. Guardar estadísticas
+9. Salir
 ==========================================="""
     print(menu1)
 
@@ -304,7 +305,7 @@ def eliminar_elemento(opci, datos):
 
                         confirmacion = input("\n¿Está seguro de eliminarlo (S/N):").lower()
 
-                        if confirmacion == "s":
+                        if confirmacion == "s" or confirmacion == "si":
                             datos[categoria].pop(i)
                             print("Elemento eliminado correctamente.")
                             pausar()
@@ -428,3 +429,4 @@ def guardar_cargar(opci, datos):
         else:
             print("Opción inválida.")
             return datos
+        
